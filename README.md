@@ -30,6 +30,6 @@ Flutter is Google’s UI toolkit for building beautiful, natively compiled appli
 ### References
 - [Flutter](https://flutter.dev/)
 - [Dart](https://dart.dev/)
-- [Flutter documentation](https://flutter.dev/docs)
+- [Flutter documentation](https://docs.flutter.dev/)
 - [Dart documentation](https://dart.dev/guides)
 - [Loomi] Internal drive course
